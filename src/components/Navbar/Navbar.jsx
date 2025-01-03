@@ -19,6 +19,11 @@ const Menu = [
     name: "About",
     link: "/#about",
   },
+  {
+    id: 4,
+    name: "login",
+    link: "/#about",
+  },
 ];
 const Navbar = () => {
   return (

@@ -9,7 +9,6 @@ import Testimonial from "./components/Testimonial/Testimonial.jsx";
 import Footer from "./components/Footer/Footer.jsx";
 import AOS from "aos";
 import "aos/dist/aos.css";
-
 const App = () => {
   React.useEffect(() => {
     AOS.init({
